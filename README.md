@@ -1,1 +1,1 @@
-# homework-helper-reminder-thingy
+# Homework Helper Reminder Thingy
